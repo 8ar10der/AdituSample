@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Forty"
+baseURL = "https://simonroberge.com/"
+languageCode = "fr-ca"
+title = "Simon Roberge"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "Simon Roberge"
+  description = "Réalisateur"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -81,8 +81,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+    title = "Bonjour, je suis Simon Roberge"
+    subtitle = "RÉALISATEUR, PRODUCTEUR ET SCÉNARISTE"
     buttonText = "Get Started"
 
 
@@ -90,7 +90,7 @@ disqusShortname = ""
   [params.tiles]
     enable = true
     # Display your showcases here.
-    
+
     [[params.tiles.showcase]]
       title = "Aliquam"
       subtitle = "Ipsum Dolor Sit Amet"
@@ -139,9 +139,9 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
+    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+    Mauris aliquet magna magna sed nunc rhoncus pharetra.
+    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
     Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
     Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
     buttonText = "Get Started"
@@ -171,8 +171,8 @@ disqusShortname = ""
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
-    title = "Email"
-    email = "example@domain.com"
+    title = "Courriel"
+    email = "simonroberge@tutanota.com"
 
     [[params.contact.phone]]
     title = "Phone"
@@ -204,7 +204,7 @@ disqusShortname = ""
       icon = "fa-instagram"
       url= "https://www.instagram.com"
       label = "Instagram"
-    
+
     [[params.footer.social]]
       icon = "fa-github"
       url= "https://www.github.com"
