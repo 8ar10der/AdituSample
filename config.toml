@@ -1,5 +1,5 @@
 # Site settings
-baseURL = ""
+baseURL = "www.test.com"
 languageCode = "fr-ca"
 title = "Simon Roberge"
 theme = "forty"
