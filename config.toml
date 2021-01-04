@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://simonroberge.com/"
+baseURL = ""
 languageCode = "fr-ca"
 title = "Simon Roberge"
 theme = "forty"
@@ -169,7 +169,7 @@ disqusShortname = ""
     [[params.contact.email]]
     title = "Courriel"
     email = "simonroberge@tutanota.com"
-    
+
    # [[params.contact.phone]]
    # title = "Phone"
    # phone = "(000) 000-0000 x1234"
