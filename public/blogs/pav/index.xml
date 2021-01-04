@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projets en cours on Simon Roberge</title>
-    <link>https://simonroberge.com/blogs/pav/</link>
+    <link>/blogs/pav/</link>
     <description>Recent content in Projets en cours on Simon Roberge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="https://simonroberge.com/blogs/pav/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="/blogs/pav/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CDH (Titre provisoire)</title>
-      <link>https://simonroberge.com/blogs/pav/cdh/</link>
+      <link>/blogs/pav/cdh/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://simonroberge.com/blogs/pav/cdh/</guid>
+      <guid>/blogs/pav/cdh/</guid>
       <description>Documentaire, montage en cours
 Synopsis :
 Le cinéaste Simon Roberge mène des entrevues auprès de ses trois grands-parents toujours vivants afin de documenter leur vie. Au travers de ces récits se dessine le portrait d’une époque du Québec ainsi que le reflet d’une génération.
@@ -22,10 +22,10 @@ Avec la participation de : Charles Beauchesne, Denise Ouellet et Huguette Lemieu
     
     <item>
       <title>L’intimité des garçons (Titre provisoire)</title>
-      <link>https://simonroberge.com/blogs/pav/idg/</link>
+      <link>/blogs/pav/idg/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://simonroberge.com/blogs/pav/idg/</guid>
+      <guid>/blogs/pav/idg/</guid>
       <description>L’intimité des garçons (Titre provisoire), fiction, préproduction en cours
 Générique :
 Réalisateur : Simon Roberge | Directeur de la production : Charles Duquet | Directeur de la photographie : Sagerpreet Singh | Mentore : Miryam Charles
@@ -34,10 +34,10 @@ Avec le support de :</description>
     
     <item>
       <title>Safeword (Titre provisoire)</title>
-      <link>https://simonroberge.com/blogs/pav/sw/</link>
+      <link>/blogs/pav/sw/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://simonroberge.com/blogs/pav/sw/</guid>
+      <guid>/blogs/pav/sw/</guid>
       <description>Documentaire, postproduction en cours
 Synopsis : Ce documentaire intimiste met en lumière les effets thérapeutiques méconnus de la pratique BDSM en focalisant sur l’histoire singulière de Sarah, poétesse et étudiante en littérature.
 Générique :
