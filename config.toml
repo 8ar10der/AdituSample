@@ -125,12 +125,12 @@ disqusShortname = ""
     # To add more blogs just copy and paste the code.
 
   # Section Type Two
-  [params.two]
-    enable = false
-    title = "Projets en cours"
-    subtitle = "À venir prochainement sur vos écrans"
-    buttonText = "Allons-y!"
-    url = "blogs/pav"
+  #[params.two]
+  #  enable = false
+  #  title = "Projets en cours"
+  #  subtitle = "À venir prochainement sur vos écrans"
+  #  buttonText = "Allons-y!"
+  #  url = "blogs/pav"
 
 
   # Contact section
