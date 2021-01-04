@@ -1,7 +1,7 @@
 ---
 title: "Foolin'"
-description: "Foolin’, Vidéoclip de l’artiste Antoine Fugère, 2020"
-slug: "tempus"
+description: "Vidéoclip de l’artiste Antoine Fugère, 2020"
+slug: "foolin"
 image: Foolin.jpg
 keywords: ""
 categories: 
@@ -10,7 +10,7 @@ categories:
 date: 2017-10-31T22:26:13-05:00
 draft: false
 ---
-Paroles et musique par Antoine Fugère |Antoine Fugère : voix, guitare et basse | Philippe Beaulieu : percussions 
+Paroles et musique par Antoine Fugère | Antoine Fugère : voix, guitare et basse | Philippe Beaulieu : percussions 
 
 Générique :
 
