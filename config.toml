@@ -55,6 +55,10 @@ disqusShortname = ""
       name = "Projets en cours"
       url = "blogs/pav"
 
+    [[params.navigation.links]]
+      name = "À propos"
+      url = "blogs/ap.html"
+
     #[[params.navigation.links]]
     #  name = "Elements"
     #  url = "elements.html"
