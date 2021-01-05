@@ -10,7 +10,9 @@ categories:
 date: 2017-10-31T22:26:09-05:00
 draft: false
 ---
-Mon collègue Arul, Documentaire, 2019
+Documentaire, 2019
+
+![Affiche du film](/img/MONCOLLEGUEARUL_Poster_24x36-RGB_REV-LOW.jpg)
 
 **Synopsis :**
 
@@ -24,3 +26,6 @@ Avec la participation de : Arulanantham Sinnadurai | Réalisation et production 
 
 - Rendez-Vous Québec Cinéma - Sélection officielle, nomination pour le meilleur documentaire, 2019
 - Festival de film de Concordia, Sélection officielle, 2019
+
+<iframe src="https://player.vimeo.com/video/420027747" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/420027747">Trailer Mon coll&egrave;gue Arul (En/Fr)</a> from <a href="https://vimeo.com/user84907166">Simon Roberge</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -2,7 +2,7 @@
 title: "Dialogue entre elle et moi"
 description: "Documentaire, 2018"
 slug: "deem"
-image: Dialogue.jpg
+image: Dialogue.png
 keywords: ""
 categories: 
     - ""
@@ -10,7 +10,7 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
-Dialogue entre elle et moi, Documentaire, 2018
+Documentaire, 2018
 
 ![Affiche du film](/img/Affiche-DEEEM.png)
 

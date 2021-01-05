@@ -93,7 +93,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Foolin'"
       subtitle = "Vidéoclip"
-      image = "Foolin.jpg"
+      image = "Foolin.png"
       url = "blogs/pt/foolin"
 
     [[params.tiles.showcase]]
@@ -105,13 +105,13 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Dialogue entre elle et moi"
       subtitle = "Documentaire"
-      image = "Dialogue.jpg"
+      image = "Dialogue.png"
       url = "blogs/pt/deem"
 
     [[params.tiles.showcase]]
       title = "Projets en cours"
       subtitle = "À venir prochainement sur vos écrans"
-      image = "cinéma.jpg"
+      image = "Projetsencours.jpg"
       url = "blogs/pav"
 
     # You can make more showcases by copy and pasting the code above
