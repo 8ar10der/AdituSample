@@ -2,7 +2,7 @@
 title: "L’intimité des garçons (Titre provisoire)"
 description: "Fiction, préproduction en cours"
 slug: "idg"
-image: img/Intimité.jpg
+image: Intimité.jpg
 keywords: ""
 categories: 
     - ""
