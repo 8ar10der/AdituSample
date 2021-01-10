@@ -71,14 +71,14 @@ disqusShortname = ""
     #    url = "UrlOfLink"
 
     # Button Style 1
-    [[params.navigation.button1]]
-      name = "À propos"
-      url = "blogs/ap.html"
+    #[[params.navigation.button1]]
+    #  name = "À propos"
+    #  url = "blogs/ap.html"
 
     # Button Style 2
-    [[params.navigation.button2]]
-      name = "À propos"
-      url = "blogs/ap.html"
+    #[[params.navigation.button2]]
+    #  name = "À propos"
+    #  url = "blogs/ap.html"
 
   # Banner section
   [params.banner]
