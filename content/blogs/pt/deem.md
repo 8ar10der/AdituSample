@@ -48,3 +48,17 @@ https://f3m.ca/film/dialogue-entre-elle-et-moi/
 https://www.ledevoir.com/culture/cinema/550079/des-histoires-leurs-histoires
 
 https://uwpgfilmfestival.com/2020festblog/2020/10/15/2020-uwpg-film-festival-nominees-for-best-canadian-short-announced
+
+![Vignette](/img/Diagvignettes/Dialogue+10.png)
+![Vignette](/img/Diagvignettes/Dialogue+11.png)
+![Vignette](/img/Diagvignettes/Dialogue+12.png)
+![Vignette](/img/Diagvignettes/Dialogue+13.png)
+![Vignette](/img/Diagvignettes/Dialogue+15.png)
+![Vignette](/img/Diagvignettes/Dialogue+9.png)
+![Vignette](/img/Diagvignettes/Dialogue+1.jpg)
+![Vignette](/img/Diagvignettes/Dialogue+2.jpg)
+![Vignette](/img/Diagvignettes/Dialogue+3.jpg)
+![Vignette](/img/Diagvignettes/Dialogue+5.jpg)
+![Vignette](/img/Diagvignettes/Dialogue+7.jpg)
+![Vignette](/img/Diagvignettes/Dialogue+8.jpg)
+
