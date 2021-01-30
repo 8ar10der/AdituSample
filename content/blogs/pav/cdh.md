@@ -19,3 +19,10 @@ Le cinéaste Simon Roberge mène des entrevues auprès de ses trois grands-paren
 **Générique :**
 
 Avec la participation de : Charles Beauchesne, Denise Ouellet et Huguette Lemieux | Réalisation : Simon Roberge | Direction de la photographie : Sagerpreet Singh | Prise de son : Andrés Solis Barrios | 
+
+![Vignette](/img/CDHvignettes/Untitled_1.28.1.png)
+![Vignette](/img/CDHvignettes/Untitled_1.29.1.png)
+![Vignette](/img/CDHvignettes/Untitled_1.33.1.png)
+![Vignette](/img/CDHvignettes/Untitled_1.34.1.png)
+![Vignette](/img/CDHvignettes/Untitled_1.5.1+(1).png)
+![Vignette](/img/CDHvignettes/v2_1.16.1.png)
