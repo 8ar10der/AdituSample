@@ -12,7 +12,7 @@ draft: false
 ---
 Documentaire, postproduction en cours
 
-![Future affiche](/img/Safeword.jpg)
+<!--- ![Future affiche](/img/Safeword.jpg) -->
 
 **Synopsis :**
 Ce documentaire intimiste met en lumière les effets thérapeutiques méconnus de la pratique BDSM en focalisant sur l’histoire singulière de Sarah, poétesse et étudiante en littérature.
