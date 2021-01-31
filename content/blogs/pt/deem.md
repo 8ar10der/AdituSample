@@ -49,10 +49,11 @@ https://uwpgfilmfestival.com/2020festblog/2020/10/15/2020-uwpg-film-festival-nom
 ![Vignette](/img/Diagvignettes/Dialogue+13.png)
 ![Vignette](/img/Diagvignettes/Dialogue+15.png)
 ![Vignette](/img/Diagvignettes/Dialogue+9.png)
-![Vignette](/img/Diagvignettes/Dialogue+1.jpg)
-![Vignette](/img/Diagvignettes/Dialogue+2.jpg)
-![Vignette](/img/Diagvignettes/Dialogue+3.jpg)
+![Vignette](/img/Diagvignettes/Dialogue1b.jpg)
+![Vignette](/img/Diagvignettes/Dialogue2b.jpg)
+![Vignette](/img/Diagvignettes/Dialogue3b.jpg)
 ![Vignette](/img/Diagvignettes/Dialogue+5.jpg)
 ![Vignette](/img/Diagvignettes/Dialogue+7.jpg)
 ![Vignette](/img/Diagvignettes/Dialogue+8.jpg)
+
 
