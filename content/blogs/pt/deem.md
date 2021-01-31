@@ -26,17 +26,11 @@ Avec  : Ginette Lafontaine ainsi que la participation de : Radu Christian Barca,
 **Projections du films et récompenses :**
 
 - Festival du Nouveau Cinéma, Montréal - Sélection officielle, compétition nationale, octobre 2018
-
 - Regard  sur le court-métrage, Saguenay - Sélection officielle, Section thématique #Metoo, mars 2019
-
 - Une nuit trop courte, Grenoble - Nomination pour le meilleur documentaire, mars 2019
-
 - Les perciédes, Percé - Sélection officielle, compétition nationale, août 2019
-
 - Projection de courts-métrages documentaire, Bromont, décembre 2019
-
 - UWPG Film festival, Winipeg - Prix du meilleur documentaire, nomination pour le meilleur film canadien, nomination pour le meilleur réalisateur, nomination pour le meilleur montage, nomination pour la meilleure direction de la photographie, octobre 2020
-
 - Concordia Film Festival, Montréal - Prix du meilleur documentaire, mention honorable pour le meilleur film, 2018 
 
 **Pour voir le film :**
