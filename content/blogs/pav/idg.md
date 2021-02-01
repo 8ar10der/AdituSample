@@ -11,8 +11,7 @@ date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
 Fiction, préproduction en cours
-
-![Intimité](/img/Intimité.jpg)
+<!--- ![Intimité](/img/Intimité.jpg)  -->
 
 **Générique :** 
 
