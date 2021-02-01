@@ -152,14 +152,14 @@ disqusShortname = ""
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    # formEmail = "lroberge.com"
+    # formEmail = ""
 
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
     #[[params.contact.email]]
     # title = "Courriel"
-    # email = "simonroberge@tutanota.com"
+    # email = ""
 
    # [[params.contact.phone]]
    # title = "Phone"
