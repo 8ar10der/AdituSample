@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://stupefied-bassi-e7f35d.netlify.app/"
+baseURL = "https://www.simonroberge.com"
 languageCode = "fr-ca"
 title = "Simon Roberge"
 theme = "forty"
