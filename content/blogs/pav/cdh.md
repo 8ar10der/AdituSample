@@ -2,7 +2,7 @@
 title: "3 - CDH (Titre provisoire)"
 description: "Documentaire, montage en cours"
 slug: "cdh"
-image: Huguette.png
+image: Huguette.jpg
 keywords: ""
 categories: 
     - ""

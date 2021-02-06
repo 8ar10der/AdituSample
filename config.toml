@@ -96,7 +96,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Foolin'"
       subtitle = "Vidéoclip"
-      image = "Foolin.png"
+      image = "Foolin.jpg"
       url = "blogs/pt/foolin"
 
     [[params.tiles.showcase]]
@@ -108,7 +108,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Dialogue entre elle et moi"
       subtitle = "Documentaire"
-      image = "Dialogue.png"
+      image = "Dialogue.jpg"
       url = "blogs/pt/deem"
 
     [[params.tiles.showcase]]

@@ -40,5 +40,4 @@ Avec la participation de : Arulanantham Sinnadurai | Réalisation et production 
 ![Vignette](/img/Arulvignettes/DSC02798.jpg)
 ![Vignette](/img/Arulvignettes/DSC02720+-+s.jpg)
 
-<iframe src="https://player.vimeo.com/video/420027747" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/420027747">Trailer Mon coll&egrave;gue Arul (En/Fr)</a> from <a href="https://vimeo.com/user84907166">Simon Roberge</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+{{< vimeo 420027747 >}}

@@ -2,7 +2,7 @@
 title: "Foolin'"
 description: "Vidéoclip de l’artiste Antoine Fugère, 2020"
 slug: "foolin"
-image: Foolin.png
+image: Foolin.jpg
 keywords: ""
 categories: 
     - ""
@@ -30,4 +30,5 @@ Mettant en vedette : Antoine Fugère | Une production Les Flâneurs | Réalisate
 ![Vignette](/img/Foovignettes/vig_vlcsnap-2020-10-01-11h50m31s164.png)
 ![Vignette](/img/Foovignettes/vig_vlcsnap-2020-10-01-11h51m37s041.png)
 ![Vignette](/img/Foovignettes/vig_vlcsnap-2020-10-01-11h53m33s290.png)
+
 {{< vimeo 446563809 >}}

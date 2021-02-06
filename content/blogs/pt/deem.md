@@ -2,7 +2,7 @@
 title: "Dialogue entre elle et moi"
 description: "Documentaire, 2018"
 slug: "deem"
-image: Dialogue.png
+image: Dialogue.jpg
 keywords: ""
 categories: 
     - ""
@@ -56,4 +56,4 @@ https://uwpgfilmfestival.com/2020festblog/2020/10/15/2020-uwpg-film-festival-nom
 ![Vignette](/img/Diagvignettes/Dialogue8b.jpg)
 ![Vignette](/img/Diagvignettes/Dialogue+5.jpg)
 
-
+{{< vimeo 337040566 >}}
