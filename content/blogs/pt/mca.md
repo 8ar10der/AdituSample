@@ -16,7 +16,7 @@ Documentaire, 2019
 
 **Synopsis :**
 
-Une journée dans la vie d’Arulanantham Sinnadurai, Québécois d’origine sri-lankaise, vu au travers des deux principales occupations de sa vie : son boulot comme plongeur dans un restaurant de sushi et sa vie spirituelle dans le temple hindouiste dont il est le propriétaire, situé dans un village isolé à la campagne.
+Une journée dans la vie d’Arulanantham Sinnadurai, québécois d’origine sri-lankaise, vu au travers des deux principales occupations de sa vie : son boulot comme plongeur dans un restaurant de sushi et sa vie spirituelle dans le temple hindouiste dont il est le propriétaire, situé dans un village isolé à la campagne.
 
 **Générique :**
 
