@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Simon Roberge</title>
-    <link>https://stupefied-bassi-e7f35d.netlify.app/blogs/</link>
+    <link>https://simonroberge.com/blogs/</link>
     <description>Recent content in Blogs on Simon Roberge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate><atom:link href="https://stupefied-bassi-e7f35d.netlify.app/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate><atom:link href="https://simonroberge.com/blogs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
