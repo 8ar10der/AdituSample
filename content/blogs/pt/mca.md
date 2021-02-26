@@ -2,7 +2,7 @@
 title: "Mon collègue Arul"
 description: "Documentaire, 2019"
 slug: "mca"
-image: 
+image: Arul.jpg
 keywords: ""
 categories: 
     - ""
