@@ -2,7 +2,7 @@
 title: "Foolin'"
 description: "Vidéoclip de l’artiste Antoine Fugère, 2020"
 slug: "foolin"
-image: 
+image: Foolin.jpg
 keywords: ""
 categories: 
     - ""
