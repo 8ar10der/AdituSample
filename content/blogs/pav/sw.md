@@ -19,7 +19,7 @@ Ce documentaire intimiste met en lumière les effets thérapeutiques méconnus d
 
 **Générique :**
 
-Avec la participation de : Sarah-Maude Bilodeau et Jonny Simple | Réalisation : Simon Roberge | Direction de la photographie : Sagerpreet Singh | Assistante à la caméra et à l’éclairage : Alexandra Shaporina | Prise de son : Giulio Trejo-Martinez | Assistant à la recherche et à la réalisation : Jérémie Leroux | Montage : Félix Bouffard-Dumas | Conception sonore : Andrés Solis Barrios | Étalonnage : Samantha Neboschizkij | Mentore : Jessica Gélinas | 
+Avec la participation de : Sarah-Maude Bilodeau | Réalisation : Simon Roberge | Direction de la photographie : Sagerpreet Singh | Assistante à la caméra et à l’éclairage : Alexandra Shaporina | Prise de son : Giulio Trejo-Martinez | Assistant à la recherche et à la réalisation : Jérémie Leroux | Montage : Félix Bouffard-Dumas | Conception sonore : Andrés Solis Barrios | Étalonnage : Samantha Neboschizkij | Mentore : Jessica Gélinas | 
 
 **Avec le support de :**
 
