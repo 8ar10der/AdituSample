@@ -1,5 +1,5 @@
 ---
-title: "2 - L’intimité des garçons (Titre provisoire)"
+title: "1 - L’intimité des garçons (Titre provisoire)"
 description: "Fiction, préproduction en cours"
 slug: "idg"
 image: Intimité.jpg

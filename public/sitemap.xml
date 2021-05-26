@@ -1,63 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://simonroberge.com/blogs/pav/sw/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://simonroberge.com/blogs/pav/idg/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://simonroberge.com/blogs/pav/cdh/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://simonroberge.com/blogs/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://simonroberge.com/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://simonroberge.com/blogs/pav/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://simonroberge.com/blogs/pt/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://simonroberge.com/blogs/pt/foolin/</loc>
     <lastmod>2017-10-31T22:26:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://simonroberge.com/blogs/pt/mca/</loc>
     <lastmod>2017-10-31T22:26:09-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://simonroberge.com/blogs/pt/deem/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://simonroberge.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://simonroberge.com/tags/</loc>
   </url>
-  
 </urlset>
