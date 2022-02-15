@@ -1,7 +1,0 @@
-images.txt
-Untitled_1.28.1.png
-Untitled_1.29.1.png
-Untitled_1.33.1.png
-Untitled_1.34.1.png
-Untitled_1.5.1+(1).png
-v2_1.16.1.png
