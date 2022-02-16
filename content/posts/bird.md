@@ -10,7 +10,7 @@ Rodney, québécois d’origine haïtienne, est un joueur de saxophone alto. Pas
 
 ### Générique :
 
-Réalisateur : Simon Roberge
+Scénario d'Alexia Roc et Simon Roberge, Réalisateur Simon Roberge
 
 ### Avec le support de :
 
