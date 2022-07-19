@@ -21,3 +21,7 @@ Réalisateur et scénariste : Simon Roberge | Directeur de la production : Char
 ### Avec le support de :
 
 ![Financement](/images/emploi-quebec-mini.jpg)
+
+### Projections du films et récompenses :
+
+* Festival Fantasia, compétions officielle, fantastique week-end du cinéma québécois, 2022
